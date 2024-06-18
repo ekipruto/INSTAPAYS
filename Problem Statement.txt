@@ -1,0 +1,45 @@
+Money transfer apps have become increasingly popular for their convenience and speed in facilitating financial transactions. However, there are still significant challenges that need to be addressed to ensure efficient and secure money transfers through technology-based apps. The following challenges are commonly faced:
+
+High transaction fees: Many money transfer apps charge high transaction fees, which can significantly impact the affordability and accessibility of these services, especially for low-income individuals or those in developing countries. High transaction fees can also erode the value of the transferred amount, reducing the effectiveness of the money transfer app as a cost-effective means of financial inclusion.
+
+
+
+Complex and lengthy onboarding process: The onboarding process for money transfer apps can be complex and time-consuming, requiring extensive documentation, identity verification, and other cumbersome steps. This can deter potential users from using the app, particularly those who lack access to formal identification documents or have limited digital literacy skills.
+
+
+
+Limited accessibility for unbanked or underbanked populations: Many money transfer apps require users to have a bank account, credit card, or other formal financial instruments, which can exclude unbanked or underbanked populations from accessing these services. This can hinder financial inclusion efforts, particularly in regions where access to formal banking services is limited.
+
+Security and fraud risks: Money transfer apps involve the transfer of sensitive financial information and funds, making them vulnerable to security breaches, fraud, and other malicious activities. Users may be at risk of financial losses or data breaches, which can erode trust in the app and discourage its usage.
+Input ID number
+Lack of interoperability and limited international transfers: Money transfer apps often lack interoperability with other financial systems, limiting their ability to facilitate seamless transfers between different platforms or across borders. This can hinder the convenience and efficiency of cross-border money transfers, which are essential for international remittances or global financial transactions.
+
+Therefore, the problem statement is to develop and implement technology-based solutions that address these challenges and enhance the usability, affordability, and security of money transfer apps. These solutions should focus on reducing transaction fees, simplifying the onboarding process, improving accessibility for unbanked or underbanked populations, enhancing security measures, and promoting interoperability for seamless international transfers. By addressing these challenges, technology can help optimize money transfer apps and enable more inclusive, efficient, and secure financial transactions.
+
+
+
+MVP Features
+
+Users
+Create an account as a new user 
+Login to the platform 
+View analytics about his/ her wallet account
+View their profile & Update profile details
+Add funds to their existing wallet account
+Add beneficiaries as contacts to their account so as to be able to send money to them
+S
+View a summary of transactions made by them within their account
+
+Admin
+Perform CRUD operations on all users and their accounts 
+View a summary of all transactions made by users 
+View analytics of all user wallet accounts
+View trends in terms of profits made by a transaction so as to make future decisions.
+
+Technical expectations
+Backe
+nd: Python Flask
+Database: PostgreSQL
+Wireframes: Figma (Should be mobile-friendly)
+Testing Framework: ​Jest & Minitests
+Frontend: ReactJs & Redux Toolkit(state management)
